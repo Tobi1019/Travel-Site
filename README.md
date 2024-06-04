@@ -1,6 +1,4 @@
 Responsive full-screen image slider
-This is a working full-screen image slider.
-
 Features
 responsive
 adapts to all screen sizes
